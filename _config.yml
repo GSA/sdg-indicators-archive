@@ -8,12 +8,12 @@
 # Site settings
 title: U.S. Indicators For The Sustainable Development Goals
 description: Data Platform Prototype
-baseurl: "/sdg-indicators" # the subpath of your site, e.g. /blog
+baseurl: "/sdg-indicators-archive" # the subpath of your site, e.g. /blog
 url: ""
 data_dir: data
 
 #Github Repo
-repo_name: sdg-indicators
+repo_name: sdg-indicators-archive
 branch: gh-pages
 org_name: GSA
 
